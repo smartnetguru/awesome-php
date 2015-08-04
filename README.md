@@ -463,7 +463,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Propel](http://www.propelorm.org/) - A fast ORM, migration library and query builder.
 * [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [Baum](https://github.com/etrepat/baum) - A nested set implementation for Eloquent.
-* [Spot2](https://github.com/vlucas/spot2) - A MySQL datamapper ORM.
+* [Spot2](https://github.com/vlucas/spot2) - A simple DataMapper ORM built on Doctrine DBAL.
 * [RedBean](http://redbeanphp.com/) - A lightweight, configuration-less ORM.
 * [Pomm](https://github.com/chanmix51/Pomm) - An Object Model Manager for PostgreSQL.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - A set of utilities to generate proxy objects for data mappers.
